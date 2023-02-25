@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.carousel-item img{
+    height: 55vh;
+    
+    
+}
+
+.container > h1{
+    padding-top: 2vh;
+}
+
+.para-con p{
+    font-weight: 600;
+    font-size: 17px;
+}
+
+.para-con{
+    
+    padding: 1vw;
+}
+
+
+.row{
+    padding: 1vw;
+}
+
+.space{
+    height: 5vh;
+}
+
+.space1{
+    height: 2vh;
+}
+
+label{
+    font-weight: 600;
+    font-size: 18px;
+}
+    
+.mb-3 input{
+    padding: 10px;
+}
+
+.custom{
+    border-bottom: 1px solid white;
+    
+}
+
+.custom2{
+    border-top: 1px solid rgb(219, 219, 219);
+}
+
+.card-text{
+    font-size: 16px;
+    font-weight: 500;
+
+}
+
